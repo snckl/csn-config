@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to CSN post related docker APIs "
+  contactDetails:
+    name: "Sinan Çakal - Developer"
+    email: "{cipher}UPAd0ZiBcr1qGzf4rNf6WKFXwtx3lqCz3HaqC4KoUpE="
+  onCallSupport:
+    - (537) 000-0000
+    - (537) 000-0000
